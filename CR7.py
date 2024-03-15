@@ -1,4 +1,4 @@
-from os import path
+from os import path1
 import os,base64,zlib,pip,urllib,time
 print('[\033[1;32m✓\033[1;37m] Checking For Update !! ')
 time.sleep(1.5)
